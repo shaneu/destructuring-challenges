@@ -1,0 +1,21 @@
+{
+  "name": "destructuring-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shaneu/destructuring-challenges.git",
+  "author": "Shane Unger <shane.unger1@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "10.11.0"
+  }
+}
