@@ -11,7 +11,7 @@ describe('Destructuring', () => {
         input: {a: 'the value of key a', b: 'the value of key b'},
       },
       {
-        assertion: 'should retrieve the username: test 2',
+        assertion: 'should get the username correctly: test 2',
         assertionFn: 'toBe',
         expected: 'nina@hotmail.com',
         fn: test2,
